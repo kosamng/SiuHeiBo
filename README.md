@@ -10,6 +10,8 @@
 
 因為 —— 小氣鬼係唔會輕易原諒人㗎！
 
+[Download iOS] (https://apps.apple.com/hk/app/%E5%B0%8F%E6%B0%A3%E7%B0%BF/id6751198051?l=en-GB)
+
 ## ✨ 功能特色
 
 > 📝 快速記錄你嬲嘅事件
