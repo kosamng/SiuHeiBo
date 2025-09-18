@@ -12,7 +12,7 @@
 
 > [Download iOS](https://apps.apple.com/hk/app/%E5%B0%8F%E6%B0%A3%E7%B0%BF/id6751198051?l=en-GB)
 
-> [Download Android]
+> [Download Android (apk)](https://github.com/kosamng/SiuHeiBo/releases/tag/Android)
 
 ## ✨ 功能特色
 
