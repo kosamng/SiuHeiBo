@@ -12,7 +12,7 @@
 
 > [Download iOS](https://apps.apple.com/hk/app/%E5%B0%8F%E6%B0%A3%E7%B0%BF/id6751198051?l=en-GB)
 
-> [Download Android (Beta apk)](https://github.com/kosamng/SiuHeiBo/releases/download/v1.0.4/application-e1020081-ef27-454a-9571-b312832d7a5d.apk) 
+> [Android (Beta 試用中！)] (https://www.instagram.com/siuheibo.official?igsh=cGlsd2FkYWUzNGMy)
 
 ## ✨ 功能特色
 
