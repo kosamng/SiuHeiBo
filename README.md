@@ -12,7 +12,7 @@
 
 > [Download iOS](https://apps.apple.com/hk/app/%E5%B0%8F%E6%B0%A3%E7%B0%BF/id6751198051?l=en-GB)
 
-> [Android (Beta 試用中！)] (https://www.instagram.com/siuheibo.official?igsh=cGlsd2FkYWUzNGMy)
+> [Android (Beta 試用中！)](https://www.instagram.com/siuheibo.official?igsh=cGlsd2FkYWUzNGMy)
 
 ## ✨ 功能特色
 
