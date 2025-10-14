@@ -1,4 +1,4 @@
-# 📒 小氣簿
+# 小氣簿 📙
 
 屬於小氣鬼的筆記簿
 
@@ -13,6 +13,15 @@
 > [Download iOS](https://apps.apple.com/hk/app/%E5%B0%8F%E6%B0%A3%E7%B0%BF/id6751198051?l=en-GB)
 
 > [Android (Beta 試用中！)](https://www.instagram.com/siuheibo.official?igsh=cGlsd2FkYWUzNGMy)
+
+## 💪🏻 支持我們
+一杯咖啡，支持我哋繼續開發新功能～❤️
+> [課金支持](https://buymeacoffee.com/siuheibo)
+
+## ✉️ 聯絡我們
+- Instagram [siuheibo.official](https://www.instagram.com/siuheibo.official?igsh=Y3RsbDF4NWkyamd1&utm_source=qr)
+- Threads [siuheibo.official](https://www.threads.com/@siuheibo.official?igshid=NTc4MTIwNjQ2YQ==)
+- Email: siuheibo.official@gmail.com
 
 ## ✨ 功能特色
 
