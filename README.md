@@ -19,6 +19,12 @@
 - Threads [siuheibo.official](https://www.threads.com/@siuheibo.official?igshid=NTc4MTIwNjQ2YQ==)
 - Email: siuheibo.official@gmail.com
 
+## 💪🏻 支持我們
+
+一杯咖啡，支持我哋繼續開發新功能～❤️
+
+[<img width="182" height="51" alt="bmc-button" src="https://github.com/user-attachments/assets/a56958dc-791b-4cf8-a330-4b8231e5c7af" />](https://buymeacoffee.com/siuheibo)
+
 ## ✨ 功能特色
 
 > 📝 快速記錄你嬲嘅事件
