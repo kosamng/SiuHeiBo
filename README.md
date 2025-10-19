@@ -35,11 +35,11 @@
 
 > 📊 檢視你嘅嬲嬲紀錄
 
-<p align="left">
-  <img src="9876E93C-5643-450C-841D-31AC0DB0DB3D_1_105_c.jpeg" width="200"/>
-  <img src="89712AFB-1664-4294-B890-8CE647DD7247_1_105_c.jpeg" width="200"/>
-  <img src="9DFD732F-0407-4393-8B3F-B68BDC72BA67_1_105_c.jpeg" width="200"/>
-  <img src="F4A9B762-7C52-47D0-8DE9-79DDC09047C1_1_105_c.jpeg" width="200"/>
+<p align=left>
+  <img width="200" src="https://github.com/user-attachments/assets/704b4af6-a1c6-4fa0-b4d7-23a54adc2d3a" />
+  <img width="200" src="https://github.com/user-attachments/assets/01a832bc-0394-4feb-997f-e394f480fc29" />
+  <img width="200" src="https://github.com/user-attachments/assets/6fa4c7f5-7c12-4af3-84c6-d7d0f5e386eb" />
+  <img width="200" src="https://github.com/user-attachments/assets/a3576b29-43b9-4ac0-887a-650ee0695698" />
 </p>
 
 ###### ---------------------------------------------------------- 分割線 ----------------------------------------------------------
