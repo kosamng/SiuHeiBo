@@ -10,7 +10,7 @@
 
 因為 —— 小氣鬼係唔會輕易原諒人㗎！
 
-> [Download iOS](https://apps.apple.com/hk/app/%E5%B0%8F%E6%B0%A3%E7%B0%BF/id6751198051?l=en-GB)
+[<img width="145" height="53" alt="Download_on_the_App_Store_Badge_CNTC_blk_100217" src="https://github.com/user-attachments/assets/119ee2c9-0346-44f0-b3eb-e94252a5f840" />](https://apps.apple.com/hk/app/%E5%B0%8F%E6%B0%A3%E7%B0%BF/id6751198051?l=en-GB)
 
 > [Android (Beta 試用中！)](https://www.instagram.com/siuheibo.official?igsh=cGlsd2FkYWUzNGMy)
 
