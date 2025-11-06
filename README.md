@@ -11,19 +11,18 @@
 因為 —— 小氣鬼係唔會輕易原諒人㗎！
 
 [<img width="145" height="53" alt="Download_on_the_App_Store_Badge_CNTC_blk_100217" src="https://github.com/user-attachments/assets/119ee2c9-0346-44f0-b3eb-e94252a5f840" />](https://apps.apple.com/hk/app/%E5%B0%8F%E6%B0%A3%E7%B0%BF/id6751198051?l=en-GB)
-
-> [Android (Beta 試用中！)](https://www.instagram.com/siuheibo.official?igsh=cGlsd2FkYWUzNGMy)
-
-## ✉️ 聯絡我們
-- Instagram [siuheibo.official](https://www.instagram.com/siuheibo.official?igsh=Y3RsbDF4NWkyamd1&utm_source=qr)
-- Threads [siuheibo.official](https://www.threads.com/@siuheibo.official?igshid=NTc4MTIwNjQ2YQ==)
-- Email: siuheibo.official@gmail.com
+[<img width="179" height="53" alt="PreRegisterOnGooglePlay_Badge_Web_color_chinese-hk" src="https://github.com/user-attachments/assets/a61a013f-eb30-474f-9837-248d3827e18f" />](https://play.google.com/store/apps/details?id=com.kosamng.AngryTracker)
 
 ## 💪🏻 支持我們
 
 一杯咖啡，支持我哋繼續開發新功能～❤️
 
 [<img width="182" height="51" alt="bmc-button" src="https://github.com/user-attachments/assets/a56958dc-791b-4cf8-a330-4b8231e5c7af" />](https://buymeacoffee.com/siuheibo)
+
+## ✉️ 聯絡我們
+- Instagram [siuheibo.official](https://www.instagram.com/siuheibo.official?igsh=Y3RsbDF4NWkyamd1&utm_source=qr)
+- Threads [siuheibo.official](https://www.threads.com/@siuheibo.official?igshid=NTc4MTIwNjQ2YQ==)
+- Email: siuheibo.official@gmail.com
 
 ## ✨ 功能特色
 
