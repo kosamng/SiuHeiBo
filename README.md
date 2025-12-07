@@ -19,9 +19,10 @@
 
 [<img width="182" height="51" alt="bmc-button" src="https://github.com/user-attachments/assets/a56958dc-791b-4cf8-a330-4b8231e5c7af" />](https://buymeacoffee.com/siuheibo)
 
-## ✉️ 聯絡我們
+## ✉️ 聯絡我們 / 意見回饋
 - Instagram [siuheibo.official](https://www.instagram.com/siuheibo.official?igsh=Y3RsbDF4NWkyamd1&utm_source=qr)
 - Threads [siuheibo.official](https://www.threads.com/@siuheibo.official?igshid=NTc4MTIwNjQ2YQ==)
+- Bug Report 捉蟲專家請入 👉🏻 [Discord](https://discord.gg/MDdf2zebaJ)
 - Email: siuheibo.official@gmail.com
 
 ## ✨ 功能特色
@@ -44,19 +45,42 @@
 ###### ---------------------------------------------------------- 分割線 ----------------------------------------------------------
 
 ## Privacy Policy for 小氣簿
-Effective Date: August 23, 2025
+Effective Date: December 8, 2025
 
-### Information We Collect
-We do not collect, store, or share any personal information or data from users of 小氣簿.
+### 1. Information We Collect
+#### 1.1 We collect anonymous or pseudonymous usage data to help improve app performance and user experience.
+This may include:
+- App interactions (pages visited, features used)
+- Device information (model, OS version)
+- Crash reports and diagnostics
 
-### How We Use Information
-Since we do not collect any data, we do not use your information for any purpose.
+#### 1.2 Account Information
+If you choose to sign in using Apple or Google, we may collect:
+- User ID (unique identifier from your sign-in provider)
+- Email address (only when the provider allows it and you grant permission)
 
-### Third-Party Services
-AngryTracker does not use third-party analytics, advertising, or tracking tools.
+#### 1.3 Cloud-Synced Data
+If you enable cloud sync, your app data will be stored securely in the cloud using services such as: Firebase / Google Cloud.
+This data exists only to support syncing across devices and backup functionality.
 
-### Data Storage and Security
-All information you create in the app remains on your device only. If you delete the app, all of your data is permanently deleted with it.
+### 2. How We Use Information
+We use collected information only for the following purposes:
+- To provide app features such as syncing across devices
+- To improve stability, performance, and user experience
+- To diagnose crashes, bugs, or technical issues
+- To maintain secure login and authentication
 
-### Changes to This Privacy Policy
+**We do not sell or share your personal data with third-party advertisers.**
+
+### 3. Third-Party Services
+The App may use the following third-party services:
+- Firebase Analytics / Crashlytics (usage analytics and crash reports)
+- Firebase Authentication, Google Sign-In, Sign in with Apple
+- Cloud Database / Storage Services for syncing user data
+
+### 4. Data Storage and Security
+Your synced data is stored securely using industry-standard encryption provided by third-party cloud providers.
+If you delete the app, local data is removed from your device. Cloud-synced data may persist unless deleted through the app.
+
+### 5. Changes to This Privacy Policy
 If our practices change in the future, we will update this Privacy Policy accordingly.
