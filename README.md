@@ -45,7 +45,7 @@
 ###### ---------------------------------------------------------- 分割線 ----------------------------------------------------------
 
 ## Privacy Policy for 小氣簿
-Effective Date: December 8, 2025
+Effective Date: December 12, 2025
 
 ### 1. Information We Collect
 #### 1.1 We collect anonymous or pseudonymous usage data to help improve app performance and user experience.
