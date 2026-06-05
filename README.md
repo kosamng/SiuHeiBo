@@ -79,3 +79,46 @@ If you delete the app, local data is removed from your device. Cloud-synced data
 
 ### 5. Changes to This Privacy Policy
 If our practices change in the future, we will update this Privacy Policy accordingly.
+
+
+
+
+## Account and Data Deletion Request
+*Last updated: June 5, 2026*
+
+At **小氣簿**, we value your privacy and give you full control over your personal data. 
+
+This page provides instructions on how to request the permanent deletion of your account and all associated data for our mobile application: **小氣簿**.
+
+---
+
+### What Data Will Be Deleted?
+When you submit a data deletion request, the following information will be permanently removed from our databases:
+* Your user profile information (Email, Username, User ID)
+* App-specific progress, settings, and configurations
+
+*Note: Any data required for legitimate legal, regulatory, or security purposes will be retained strictly in accordance with local laws.*
+
+---
+
+### How to Request Account & Data Deletion
+
+You do not need to have the app installed on your device to request data deletion. You can request it at any time using the method below.
+
+#### Method 1: Email Request (Recommended)
+Please send an email to our support team to request a manual wipe:
+* **Support Email:** siuheibo.official@gmail.com
+* **Subject Line:** Data Deletion Request - 小氣簿
+* **Information to Include:** Please provide the email address or the User ID associated with your account so we can verify ownership.
+
+*We process all manual deletion requests within [e.g., 7 business days] of verification.*
+
+---
+
+### ⚠️ Important Considerations Before Requesting Deletion
+
+1. **Active Subscriptions:** If you have an active subscription purchased via Google Play, **you must cancel it through the Google Play Store first**. Deleting your app account will not automatically cancel a recurring Google Play billing cycle.
+2. **Action is Permanent:** Once your data is deleted, it cannot be recovered. You will lose all in-app purchases, progress, and history permanently.
+
+---
+
